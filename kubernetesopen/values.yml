@@ -1,0 +1,7 @@
+image:
+repository: site-ecommerce
+tag: 1.2.0
+service:
+type: ClusterIP
+port: 8080
+replicaCount: 3
